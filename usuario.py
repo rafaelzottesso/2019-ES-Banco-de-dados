@@ -17,6 +17,7 @@ def criar_tabela_usuario(conexao):
 
 
 # Procedimento que recebe a conexão
+# Inserir, alterar e excluir são Procedimentos parecidos.
 def inserir_usuario(conexao):
 
     # Pede os dados para o usuário
